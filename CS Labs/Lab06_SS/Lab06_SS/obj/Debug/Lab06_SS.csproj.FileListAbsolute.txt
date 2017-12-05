@@ -1,0 +1,21 @@
+C:\Users\Shane\Desktop\CS Coding Projects\Lab06_SS\Lab06_SS\bin\Debug\Lab06_SS.exe.config
+C:\Users\Shane\Desktop\CS Coding Projects\Lab06_SS\Lab06_SS\bin\Debug\Lab06_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\Lab06_SS\Lab06_SS\bin\Debug\Lab06_SS.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\Lab06_SS\Lab06_SS\obj\Debug\Lab06_SS.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\CS Coding Projects\Lab06_SS\Lab06_SS\obj\Debug\Lab06_SS.Form1.resources
+C:\Users\Shane\Desktop\CS Coding Projects\Lab06_SS\Lab06_SS\obj\Debug\Lab06_SS.Properties.Resources.resources
+C:\Users\Shane\Desktop\CS Coding Projects\Lab06_SS\Lab06_SS\obj\Debug\Lab06_SS.csproj.GenerateResource.Cache
+C:\Users\Shane\Desktop\CS Coding Projects\Lab06_SS\Lab06_SS\obj\Debug\Lab06_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\Lab06_SS\Lab06_SS\obj\Debug\Lab06_SS.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\CS Labs\Lab06_SS\Lab06_SS\bin\Debug\Lab06_SS.exe.config
+C:\Users\Shane\Desktop\CS Coding Projects\CS Labs\Lab06_SS\Lab06_SS\obj\Debug\Lab06_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Labs\Lab06_SS\Lab06_SS\obj\Debug\Lab06_SS.pdb
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Labs\Lab06_SS\Lab06_SS\bin\Debug\Lab06_SS.exe.config
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Labs\Lab06_SS\Lab06_SS\obj\Debug\Lab06_SS.exe
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Labs\Lab06_SS\Lab06_SS\obj\Debug\Lab06_SS.pdb
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Labs\Lab06_SS\Lab06_SS\bin\Debug\Lab06_SS.exe
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Labs\Lab06_SS\Lab06_SS\bin\Debug\Lab06_SS.pdb
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Labs\Lab06_SS\Lab06_SS\obj\Debug\Lab06_SS.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Labs\Lab06_SS\Lab06_SS\obj\Debug\Lab06_SS.Form1.resources
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Labs\Lab06_SS\Lab06_SS\obj\Debug\Lab06_SS.Properties.Resources.resources
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Labs\Lab06_SS\Lab06_SS\obj\Debug\Lab06_SS.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+C:\Users\Shane\Desktop\CS Coding Projects\CS Labs\Lab25_SS\Lab25_SS\bin\Debug\Lab25_SS.exe.config
+C:\Users\Shane\Desktop\CS Coding Projects\CS Labs\Lab25_SS\Lab25_SS\bin\Debug\Lab25_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Labs\Lab25_SS\Lab25_SS\bin\Debug\Lab25_SS.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\CS Labs\Lab25_SS\Lab25_SS\obj\Debug\Lab25_SS.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\CS Coding Projects\CS Labs\Lab25_SS\Lab25_SS\obj\Debug\Lab25_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Labs\Lab25_SS\Lab25_SS\obj\Debug\Lab25_SS.pdb

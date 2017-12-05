@@ -1,0 +1,9 @@
+C:\Users\Shane\Desktop\CS Coding Projects\Programming Practice\Programming Practice\bin\Debug\Programming Practice.exe.config
+C:\Users\Shane\Desktop\CS Coding Projects\Programming Practice\Programming Practice\bin\Debug\Programming Practice.exe
+C:\Users\Shane\Desktop\CS Coding Projects\Programming Practice\Programming Practice\bin\Debug\Programming Practice.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\Programming Practice\Programming Practice\obj\Debug\Programming Practice.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\CS Coding Projects\Programming Practice\Programming Practice\obj\Debug\Programming Practice.exe
+C:\Users\Shane\Desktop\CS Coding Projects\Programming Practice\Programming Practice\obj\Debug\Programming Practice.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\CS Out of Class\Programming Practice\Programming Practice\bin\Debug\Programming Practice.exe.config
+C:\Users\Shane\Desktop\CS Coding Projects\CS Out of Class\Programming Practice\Programming Practice\obj\Debug\Programming Practice.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Out of Class\Programming Practice\Programming Practice\obj\Debug\Programming Practice.pdb

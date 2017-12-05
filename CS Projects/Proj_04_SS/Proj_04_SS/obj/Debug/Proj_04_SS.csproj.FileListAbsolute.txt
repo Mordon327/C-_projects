@@ -1,0 +1,18 @@
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\bin\Debug\Proj_04_SS.exe.config
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\bin\Debug\Proj_04_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\bin\Debug\Proj_04_SS.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\obj\Debug\Proj_04_SS.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\obj\Debug\Proj_04_SS.Properties.Resources.resources
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\obj\Debug\Proj_04_SS.csproj.GenerateResource.Cache
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\obj\Debug\Proj_04_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\obj\Debug\Proj_04_SS.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\obj\Debug\Proj_04_SS.Project4.resources
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\bin\Debug\Proj_04_SS.exe.config
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\obj\Debug\Proj_04_SS.exe
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\obj\Debug\Proj_04_SS.pdb
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\bin\Debug\Proj_04_SS.exe
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\bin\Debug\Proj_04_SS.pdb
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\obj\Debug\Proj_04_SS.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\obj\Debug\Proj_04_SS.Project4.resources
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\obj\Debug\Proj_04_SS.Properties.Resources.resources
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_04_SS\Proj_04_SS\obj\Debug\Proj_04_SS.csproj.GenerateResource.Cache

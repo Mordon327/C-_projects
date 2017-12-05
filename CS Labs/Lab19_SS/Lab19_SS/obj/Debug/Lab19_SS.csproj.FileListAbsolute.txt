@@ -1,0 +1,6 @@
+C:\Users\Shane\Desktop\CS Coding Projects\CS Labs\Lab19_SS\Lab19_SS\bin\Debug\Lab19_SS.exe.config
+C:\Users\Shane\Desktop\CS Coding Projects\CS Labs\Lab19_SS\Lab19_SS\bin\Debug\Lab19_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Labs\Lab19_SS\Lab19_SS\bin\Debug\Lab19_SS.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\CS Labs\Lab19_SS\Lab19_SS\obj\Debug\Lab19_SS.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\CS Coding Projects\CS Labs\Lab19_SS\Lab19_SS\obj\Debug\Lab19_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Labs\Lab19_SS\Lab19_SS\obj\Debug\Lab19_SS.pdb

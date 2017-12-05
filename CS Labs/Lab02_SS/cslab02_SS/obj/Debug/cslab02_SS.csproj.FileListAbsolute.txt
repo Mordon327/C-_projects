@@ -1,0 +1,9 @@
+C:\Users\Shane\Desktop\CS Coding Projects\cslab02_SS\cslab02_SS\bin\Debug\cslab02_SS.exe.config
+C:\Users\Shane\Desktop\CS Coding Projects\cslab02_SS\cslab02_SS\bin\Debug\cslab02_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\cslab02_SS\cslab02_SS\bin\Debug\cslab02_SS.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\cslab02_SS\cslab02_SS\obj\Debug\cslab02_SS.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\CS Coding Projects\cslab02_SS\cslab02_SS\obj\Debug\cslab02_SS.Form1.resources
+C:\Users\Shane\Desktop\CS Coding Projects\cslab02_SS\cslab02_SS\obj\Debug\cslab02_SS.Properties.Resources.resources
+C:\Users\Shane\Desktop\CS Coding Projects\cslab02_SS\cslab02_SS\obj\Debug\cslab02_SS.csproj.GenerateResource.Cache
+C:\Users\Shane\Desktop\CS Coding Projects\cslab02_SS\cslab02_SS\obj\Debug\cslab02_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\cslab02_SS\cslab02_SS\obj\Debug\cslab02_SS.pdb

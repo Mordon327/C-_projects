@@ -1,0 +1,6 @@
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_11_SS\Proj_11_SS\bin\Debug\Proj_11_SS.exe.config
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_11_SS\Proj_11_SS\bin\Debug\Proj_11_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_11_SS\Proj_11_SS\bin\Debug\Proj_11_SS.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_11_SS\Proj_11_SS\obj\Debug\Proj_11_SS.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_11_SS\Proj_11_SS\obj\Debug\Proj_11_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_11_SS\Proj_11_SS\obj\Debug\Proj_11_SS.pdb

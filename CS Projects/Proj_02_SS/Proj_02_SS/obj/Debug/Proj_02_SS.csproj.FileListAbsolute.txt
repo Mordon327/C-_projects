@@ -1,0 +1,21 @@
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_02_SS\Proj_02_SS\bin\Debug\Proj_02_SS.exe.config
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_02_SS\Proj_02_SS\bin\Debug\Proj_02_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_02_SS\Proj_02_SS\bin\Debug\Proj_02_SS.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_02_SS\Proj_02_SS\obj\Debug\Proj_02_SS.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_02_SS\Proj_02_SS\obj\Debug\Proj_02_SS.Form1.resources
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_02_SS\Proj_02_SS\obj\Debug\Proj_02_SS.Properties.Resources.resources
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_02_SS\Proj_02_SS\obj\Debug\Proj_02_SS.csproj.GenerateResource.Cache
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_02_SS\Proj_02_SS\obj\Debug\Proj_02_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_02_SS\Proj_02_SS\obj\Debug\Proj_02_SS.pdb
+C:\Users\Shane\Desktop\Proj_02_SS\Proj_02_SS\bin\Debug\Proj_02_SS.exe.config
+C:\Users\Shane\Desktop\Proj_02_SS\Proj_02_SS\obj\Debug\Proj_02_SS.exe
+C:\Users\Shane\Desktop\Proj_02_SS\Proj_02_SS\obj\Debug\Proj_02_SS.pdb
+C:\Users\Shane\Desktop\Proj_02_SS\Proj_02_SS\obj\Debug\Proj_02_SS.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\Proj_02_SS\Proj_02_SS\obj\Debug\Proj_02_SS.Properties.Resources.resources
+C:\Users\Shane\Desktop\Proj_02_SS\Proj_02_SS\obj\Debug\Proj_02_SS.csproj.GenerateResource.Cache
+C:\Users\Shane\Desktop\Proj_02_SS\Proj_02_SS\bin\Debug\Proj_02_SS.exe
+C:\Users\Shane\Desktop\Proj_02_SS\Proj_02_SS\bin\Debug\Proj_02_SS.pdb
+C:\Users\Shane\Desktop\Proj_02_SS\Proj_02_SS\obj\Debug\Proj_02_SS.Project2.resources
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_02_SS\Proj_02_SS\bin\Debug\Proj_02_SS.exe.config
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_02_SS\Proj_02_SS\obj\Debug\Proj_02_SS.exe
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_02_SS\Proj_02_SS\obj\Debug\Proj_02_SS.pdb

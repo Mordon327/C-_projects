@@ -1,0 +1,12 @@
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_07_SS\Proj_07_SS\bin\Debug\Proj_07_SS.exe.config
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_07_SS\Proj_07_SS\bin\Debug\Proj_07_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_07_SS\Proj_07_SS\bin\Debug\Proj_07_SS.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_07_SS\Proj_07_SS\obj\Debug\Proj_07_SS.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_07_SS\Proj_07_SS\obj\Debug\Proj_07_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_07_SS\Proj_07_SS\obj\Debug\Proj_07_SS.pdb
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_07_SS\Proj_07_SS\bin\Debug\Proj_07_SS.exe.config
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_07_SS\Proj_07_SS\obj\Debug\Proj_07_SS.exe
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_07_SS\Proj_07_SS\obj\Debug\Proj_07_SS.pdb
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_07_SS\Proj_07_SS\bin\Debug\Proj_07_SS.exe
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_07_SS\Proj_07_SS\bin\Debug\Proj_07_SS.pdb
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_07_SS\Proj_07_SS\obj\Debug\Proj_07_SS.csprojResolveAssemblyReference.cache

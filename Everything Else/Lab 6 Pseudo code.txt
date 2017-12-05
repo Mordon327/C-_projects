@@ -1,0 +1,30 @@
+      /*Personal notes for future reference:
+          private void inTXTBox_Leave(object sender, EventArgs e)
+
+            const int DOUBLE = 2;
+            int num = int.Parse(inTXTBox.Text);
+            int doubledNum = num * DOUBLE;
+            string outStr = $"{doubledNum:D}";
+	    Output.Text = $"{rotation:F}";
+            outTXTBox.Text = outStr;
+            $ tells the program to do stuff
+            "" says that what is inside is a string
+            {} what is inside is displayed
+            :F displays an integer, :C displays the integer in currency format,
+	    :D displays integer with 2 decimal places.
+
+
+	  private void button1_Click(object sender, EventArgs e)
+        {
+        //Button sets what is in the textboxs to nothing.
+        Input.Text = "";
+        Output.Text = "";
+
+	//Or you could:
+	outTXTBox.Clear();
+        }
+
+MessageBox.Show("Shane Soderstrom\nCS 1400\nLab 06");
+remember to declare int and double as const if it never changes.
+Example: const int PIE = 3.14;
+          */

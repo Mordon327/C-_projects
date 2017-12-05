@@ -1,0 +1,18 @@
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_01_SS\Proj_01_SS\bin\Debug\Proj_01_SS.exe.config
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_01_SS\Proj_01_SS\bin\Debug\Proj_01_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_01_SS\Proj_01_SS\bin\Debug\Proj_01_SS.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_01_SS\Proj_01_SS\obj\Debug\Proj_01_SS.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_01_SS\Proj_01_SS\obj\Debug\Proj_01_SS.Form1.resources
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_01_SS\Proj_01_SS\obj\Debug\Proj_01_SS.Properties.Resources.resources
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_01_SS\Proj_01_SS\obj\Debug\Proj_01_SS.csproj.GenerateResource.Cache
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_01_SS\Proj_01_SS\obj\Debug\Proj_01_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\Proj_01_SS\Proj_01_SS\obj\Debug\Proj_01_SS.pdb
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_01_SS\Proj_01_SS\bin\Debug\Proj_01_SS.exe.config
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_01_SS\Proj_01_SS\obj\Debug\Proj_01_SS.exe
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_01_SS\Proj_01_SS\obj\Debug\Proj_01_SS.pdb
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_01_SS\Proj_01_SS\bin\Debug\Proj_01_SS.exe
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_01_SS\Proj_01_SS\bin\Debug\Proj_01_SS.pdb
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_01_SS\Proj_01_SS\obj\Debug\Proj_01_SS.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_01_SS\Proj_01_SS\obj\Debug\Proj_01_SS.Form1.resources
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_01_SS\Proj_01_SS\obj\Debug\Proj_01_SS.Properties.Resources.resources
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_01_SS\Proj_01_SS\obj\Debug\Proj_01_SS.csproj.GenerateResource.Cache

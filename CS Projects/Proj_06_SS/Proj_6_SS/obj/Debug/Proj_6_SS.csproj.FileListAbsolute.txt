@@ -1,0 +1,21 @@
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_6_SS\Proj_6_SS\bin\Debug\Proj_6_SS.exe.config
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_6_SS\Proj_6_SS\bin\Debug\Proj_6_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_6_SS\Proj_6_SS\bin\Debug\Proj_6_SS.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_6_SS\Proj_6_SS\obj\Debug\Proj_6_SS.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_6_SS\Proj_6_SS\obj\Debug\Proj_6_SS.Form1.resources
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_6_SS\Proj_6_SS\obj\Debug\Proj_6_SS.Properties.Resources.resources
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_6_SS\Proj_6_SS\obj\Debug\Proj_6_SS.csproj.GenerateResource.Cache
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_6_SS\Proj_6_SS\obj\Debug\Proj_6_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_6_SS\Proj_6_SS\obj\Debug\Proj_6_SS.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_06_SS\Proj_6_SS\bin\Debug\Proj_6_SS.exe.config
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_06_SS\Proj_6_SS\obj\Debug\Proj_6_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_06_SS\Proj_6_SS\obj\Debug\Proj_6_SS.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_06_SS\Proj_6_SS\bin\Debug\Proj_6_SS.exe
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_06_SS\Proj_6_SS\bin\Debug\Proj_6_SS.pdb
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_06_SS\Proj_6_SS\obj\Debug\Proj_6_SS.csprojResolveAssemblyReference.cache
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_06_SS\Proj_6_SS\obj\Debug\Proj_6_SS.Form1.resources
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_06_SS\Proj_6_SS\obj\Debug\Proj_6_SS.Properties.Resources.resources
+C:\Users\Shane\Desktop\CS Coding Projects\CS Projects\Proj_06_SS\Proj_6_SS\obj\Debug\Proj_6_SS.csproj.GenerateResource.Cache
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_06_SS\Proj_6_SS\bin\Debug\Proj_6_SS.exe.config
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_06_SS\Proj_6_SS\obj\Debug\Proj_6_SS.exe
+C:\Users\Shane\Desktop\Spring 2016\CS Coding Projects\CS Projects\Proj_06_SS\Proj_6_SS\obj\Debug\Proj_6_SS.pdb
